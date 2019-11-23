@@ -1,0 +1,7 @@
+t=int(input())
+t1=input()
+#t2=input()
+l1=t1.split()
+l2=t.split()
+print(l2)
+print(l2)
